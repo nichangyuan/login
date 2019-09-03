@@ -1,2 +1,8 @@
-# login
-A sample login from GITHUB : https://github.com/cornflourblue/angular-registration-login-example.git
+angular-registration-login-example
+==============================
+
+This is my clone of --
+
+AngularJS User Registration and Login Example
+
+To see a demo and further details go to http://jasonwatmore.com/post/2015/03/10/AngularJS-User-Registration-and-Login-Example.aspx
