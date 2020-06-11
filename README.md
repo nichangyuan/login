@@ -11,5 +11,5 @@ AngularJS User Registration and Login Example
 - b <br><br>
 
 1. aaa
-2. fff
+2 fff
 
