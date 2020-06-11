@@ -1,7 +1,7 @@
 angular-registration-login-example
 ==============================
 
-This is my clone of --
+### This is a clone of --
 
 AngularJS User Registration and Login Example
 
