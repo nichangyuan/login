@@ -9,6 +9,7 @@ AngularJS User Registration and Login Example
 
 - a
 - b <br><br>
-1 aaa
-2 fff
+
+1. aaa
+2. fff
 
